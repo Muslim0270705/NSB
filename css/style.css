@@ -1,0 +1,84 @@
+
+.container{
+    font-family: Noteworthy, sans-serif;
+}
+.party-main{
+    margin: -10px;
+    padding: 200px 0;
+    background: linear-gradient(45deg, rgba(21, 65, 20, 0.5), rgba(21, 65, 20, 0.5)), url("../images/2023-07-26 01.59.18.jpg");
+    background-size: cover;
+}
+
+.party-main-title{
+    color: white;
+    font-size: 28px;
+    font-weight: lighter;
+    text-align: center;
+}
+.party-main-subtitle{
+    color: white;
+    text-align: center;
+}
+
+.bg {
+    background: fixed no-repeat center/cover url("../images/IMG_9211.JPG");
+    margin: -20px -10px;
+    color: rgba(21, 65, 20, 0.5);
+    text-align: center;
+
+}
+.party-text{
+    background-color: #fff;
+    /*border-radius: 100px;*/
+}
+.party-text-title{
+    padding: 70px 0;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.party-invitation{
+    font-size: 20px;
+    padding: 100px 0 50px;
+}
+.party-circle{
+    display: flex;
+    column-gap: 40px;
+    justify-content: center;
+}
+.party-other-circle{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    border: 1px solid rgba(21, 65, 20, 0.5);
+    background-color: #ffffff;
+}
+.party-other-circle-other{
+    background-color: #fffefa;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    border: 1px solid rgba(21, 65, 20, 0.5);
+}
+.party-circle-text{
+    display: flex;
+    column-gap: 40px;
+    justify-content: center;
+    color: rgba(21, 65, 20, 0.5);
+}
+.party-content-title{
+    font-size: 20px;
+}
+.party-content-list{
+    text-align: left;
+}
+.party-content-text{
+    font-size: 17px;
+}
+.other{
+    padding: 50px 20px 100px;
+    color: #B8860B;
+    font-size: 25px;
+}
+
+
+
